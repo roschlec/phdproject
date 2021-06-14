@@ -1,5 +1,5 @@
 # PhD project
-Scripts used for PhD project
+Scripts used in my PhD project: "Driving factors of bacterial interactions and spatial patterns in the phyllosphere"
 
 ## List of Content
 #### Chapter 3:  Metabolic modeling of resource overlap
